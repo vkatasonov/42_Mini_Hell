@@ -1,8 +1,9 @@
-# 🔥'Mini-hell'🔥
+# 🔥'Mini_Hell'🔥
 
 ![INTRO](/readme_imgs/minihell.png)
 
 Minishell is a 42 cursus project that is a lightweight shell implementation written in C. It provides a minimalist command line interface with basic shell functionality such as pipes and redirections.
+Given the complexity of the project and the short timeframe in which to complete it, the project was appropriately named "Mini_Hell".
 
 ## 📚Implementation📚
 
